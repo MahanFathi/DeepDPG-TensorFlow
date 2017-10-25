@@ -14,10 +14,11 @@ This code contains:
     - makes the algorithm off-policy 
 4. Target Networks for Both Action-Value and Policy Functions
     - stabilizes the learning process
-5. It's Modular 
+5. Ornstein—Uhlenbeck Action Noise for Exploration 
+6. It's Modular 
 
 #### A Playground for Controlling OpenAI Gym
-Can play around with network setttings in `config.py` and control other environments. 
+Can play around with network settings in `config.py` and control other environments. 
 
 #### TODOS
 - extend it to [MuJoCo](http://www.mujoco.org/) environments 

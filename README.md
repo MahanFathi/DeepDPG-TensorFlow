@@ -18,7 +18,7 @@ This code contains:
 6. It's Modular 
 
 #### A Playground for Controlling OpenAI Gym
-Can play around with network settings in `config.py` and control other environments. 
+Can play with and tune network settings in `config.py` and control other environments. 
 
 #### TODOS
 - extend it to [MuJoCo](http://www.mujoco.org/) environments 
@@ -29,4 +29,5 @@ Can play around with network settings in `config.py` and control other environme
 - [Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
 - [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 - [Deterministic Policy Gradient Algorithm](proceedings.mlr.press/v32/silver14.pdf)
+- [Ornstein—Uhlenbeck Action Noise](https://github.com/openai/baselines/blob/master/baselines/ddpg/noise.py)
 - [And this nice repo](https://github.com/devsisters/DQN-tensorflow)
